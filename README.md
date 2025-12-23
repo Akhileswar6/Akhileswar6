@@ -47,3 +47,10 @@
 - **Sri Venkateswara College of Engineering**
 - **All of my projects are available at <a href="https://github.com/Akhileswar6">GitHub</a>**
 - **How to reach me akhilkamale@gmail.com**
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akhileswar6&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akhileswar6&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileswar6&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
