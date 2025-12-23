@@ -49,12 +49,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux" /></a>
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akhileswar6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)   
 ![](https://nirzak-streak-stats.vercel.app/?user=Akhileswar6&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileswar6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Profile Views
+### Profile Views
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Akhileswar6.Akhileswar6&"  />
 </div>
