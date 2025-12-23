@@ -59,11 +59,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Akhileswar6&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-###
+<!-- ###
 
 <img src="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
 
 
