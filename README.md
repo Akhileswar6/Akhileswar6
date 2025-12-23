@@ -54,10 +54,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Akhileswar6&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileswar6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Profile Views
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akhileswar6.Akhileswar6&"  />
-</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Akhileswar6&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -66,6 +62,18 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
