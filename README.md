@@ -59,4 +59,9 @@
 
 
 
+###
+
+<img src="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/snake.svg" alt="Snake animation" />
+
+###
 
