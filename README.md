@@ -1,5 +1,15 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akhileswar-kamale/">Akhileswar Kamale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
+
+
+## Core Competencies
+👨🏻‍💻 **About Me** 😊 <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="300px" max-width="300px" width="350px" align="right"/>
+
+- **Hello @everyone, This side <a href= "https://www.linkedin.com/in/akhileswar-kamale/">Akhileswar Kamale</a> Currently in third year of Bachelors in Technology (Cyber Security), India.**
+- **Sri Venkateswara College of Engineering**
+- **All of my projects are available at <a href="https://github.com/Akhileswar6">GitHub</a>**
+- **How to reach me akhilkamale@gmail.com**
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 
@@ -39,24 +49,18 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux" /></a>
 </p>
 
-
-## Core Competencies
-👨🏻‍💻 **About Me** 😊 <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="300px" max-width="300px" width="350px" align="right"/>
-
-- **Hello @everyone, This side <a href= "https://www.linkedin.com/in/akhileswar-kamale/">Akhileswar Kamale</a> Currently in third year of Bachelors in Technology (Cyber Security), India.**
-- **Sri Venkateswara College of Engineering**
-- **All of my projects are available at <a href="https://github.com/Akhileswar6">GitHub</a>**
-- **How to reach me akhilkamale@gmail.com**
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akhileswar6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)   
 ![](https://nirzak-streak-stats.vercel.app/?user=Akhileswar6&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileswar6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Profile Views
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akhileswar6.Akhileswar6&"  />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Akhileswar6&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 
 ###
