@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akhileswar-kamale/">Akhileswar Kamale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
 
-
 ## Core Competencies
 👨🏻‍💻 **About Me** 😊 <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="300px" max-width="300px" width="350px" align="right"/>
 
@@ -49,6 +48,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux" /></a>
 </p>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhileswar6&theme=high-contrast)
 
 
 ### 🔝 Top Contributed Repo
