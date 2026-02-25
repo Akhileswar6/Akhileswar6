@@ -41,10 +41,8 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhileswar6&theme=github_dark) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhileswar6&theme=github_dark)
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akhileswar6/Akhileswar6/output/pacman-contribution-graph.svg">
 </picture>
-###
