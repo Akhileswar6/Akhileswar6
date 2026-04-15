@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/akhileswar-kamale/">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
-<a href="https://leetcode.com/u/Akhileswar6s/">
+<a href="https://leetcode.com/u/Akhileswar6/">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/akhil">
