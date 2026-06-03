@@ -94,7 +94,7 @@
 
 ## Coding Platforms
 
-<div align="center">
+<div >
   <a href="https://leetcode.com/u/Akhileswar6/">
     <img src="https://leetcard.jacoblin.cool/Akhileswar6?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
   </a>
