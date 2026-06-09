@@ -10,6 +10,11 @@
 - **How to reach me akhilkamale@gmail.com**
 
 
+<img src="https://komarev.com/ghpvc/?username=Akhileswar6&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
 
 
 
