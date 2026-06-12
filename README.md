@@ -96,10 +96,18 @@
 ![](https://github-readme-stats.shion.dev/api?username=Akhileswar6&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=Akhileswar6&theme=dark&hide_border=true)
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhileswar6&theme=github_dark) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhileswar6&theme=github_dark)
 
 ![3D Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhileswar6&theme=github_dark)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhileswar6&theme=github_dark) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhileswar6&theme=github_dark)
+
+
+<a href="https://commitpulse.vercel.app/dashboard/Akhileswar6">
+  <img src="https://commitpulse.vercel.app/api/streak?user=Akhileswar6&accent=348579" width="500" />
+</a>
+
+
+
 
 <h3 align="left">Leetcode Stats:</h3>
 <table>
