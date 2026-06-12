@@ -91,7 +91,13 @@
 </a>
 </p>
 
-## 3D Contribution Graph
+## Github Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Akhileswar6&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akhileswar6&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://streak-stats.demolab.com/?user=Akhileswar6&theme=dark&hide_border=true)
+
 
 ![3D Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhileswar6&theme=github_dark)
 
