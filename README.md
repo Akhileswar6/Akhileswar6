@@ -10,7 +10,11 @@
 - **How to reach me akhilkamale@gmail.com**
 
 
-<img src="https://komarev.com/ghpvc/?username=Akhileswar6&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<p >
+  <img src="https://img.shields.io/badge/From-Tiurpati_-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/College-Sri Venkateswara College of Engineering-purple?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Akhileswar6&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
 </div>
 
