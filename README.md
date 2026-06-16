@@ -106,11 +106,6 @@
 
 
 
-<a href="https://commitpulse.vercel.app/dashboard/Akhileswar6">
-  <img src="https://commitpulse.vercel.app/api/streak?user=Akhileswar6&accent=348579" width="500" />
-</a>
-
-
 
 
 <h3 align="left">Leetcode Stats:</h3>
